@@ -107988,7 +107988,7 @@
             "tag": "ul"
           },
           {
-            "content": { "content": "French", "tag": "li" },
+            "content": { "content": "Francês", "tag": "li" },
             "data": { "content": "sourceLanguages" },
             "lang": "en",
             "style": { "listStyleType": "'🌐 '" },
