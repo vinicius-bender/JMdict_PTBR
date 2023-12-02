@@ -5,7 +5,7 @@
     "n",
     "",
     -200,
-    ["air compressor"],
+    ["compressor de ar"],
     1027210,
     ""
   ],
@@ -25,7 +25,7 @@
     "n",
     "",
     -10200,
-    ["air compressor"],
+    ["compressor de ar"],
     1027210,
     ""
   ],
@@ -39,7 +39,7 @@
     1027210,
     ""
   ],
-  ["エアサービス", "エアサービス", "n", "", -200, ["air service"], 1027220, ""],
+  ["エアサービス", "エアサービス", "n", "", -200, ["serviço aéreo"], 1027220, ""],
   [
     "エアサービス",
     "エアサービス",
@@ -56,7 +56,7 @@
     "n",
     "",
     -10200,
-    ["air service"],
+    ["serviço aéreo"],
     1027220,
     ""
   ],
@@ -77598,7 +77598,7 @@
       {
         "content": [
           {
-            "content": { "content": "Natal", "tag": "li" },
+            "content": { "content": "Christmas", "tag": "li" },
             "data": { "content": "glossary" },
             "lang": "en",
             "style": { "listStyleType": "circle" },
@@ -77608,7 +77608,7 @@
             "content": [
               { "content": "いいクリスマスを過ごしましたか。", "tag": "li" },
               {
-                "content": "Você teve um bom Natal?",
+                "content": "Did you have a nice Christmas?",
                 "lang": "en",
                 "style": { "listStyleType": "'🇬🇧 '" },
                 "tag": "li"
@@ -100585,8 +100585,8 @@
         "content": [
           {
             "content": [
-              { "content": "cocoa (beverage, cocoa solids)", "tag": "li" },
-              { "content": "hot chocolate", "tag": "li" }
+              { "content": "cacau (bebida, grãos de cacau)", "tag": "li" },
+              { "content": "chocolate quente", "tag": "li" }
             ],
             "data": { "content": "glossary" },
             "lang": "en",
@@ -100597,7 +100597,7 @@
             "content": [
               { "content": "ココアを一杯いかがですか。", "tag": "li" },
               {
-                "content": "How about a cup of cocoa?",
+                "content": "Que tal um xícara de chocolate quente?",
                 "lang": "en",
                 "style": { "listStyleType": "'🇬🇧 '" },
                 "tag": "li"
@@ -100621,7 +100621,7 @@
     "n",
     "",
     999800,
-    ["Coordinating Committee for Export to Communist Area", "COCOM"],
+    ["Comitê de coordenação para exportação para a área comunista", "COCOM"],
     1050020,
     "⭐ gai"
   ],
@@ -100642,7 +100642,7 @@
     "n",
     "",
     -10200,
-    ["COCOM list"],
+    ["Lista da COCOM"],
     1050030,
     ""
   ],
@@ -100667,7 +100667,7 @@
         "content": [
           {
             "content": {
-              "content": "corsage (bouquet of flowers worn on a dress)",
+              "content": "corsage (buquê de flores usado em um vestido)",
               "tag": "li"
             },
             "data": { "content": "glossary" },
