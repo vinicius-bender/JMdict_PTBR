@@ -78221,7 +78221,7 @@
       {
         "content": [
           {
-            "content": { "content": "morning bath", "tag": "li" },
+            "content": { "content": "banho matinal", "tag": "li" },
             "data": { "content": "glossary" },
             "lang": "en",
             "style": { "listStyleType": "circle" },
@@ -78230,7 +78230,7 @@
           {
             "content": {
               "content": [
-                "see: ",
+                "veja: ",
                 {
                   "content": "朝湯",
                   "href": "?query=朝湯\u0026wildcards=off",
@@ -78238,7 +78238,7 @@
                   "tag": "a"
                 },
                 {
-                  "content": " morning bath",
+                  "content": " banho matinal",
                   "data": { "content": "refGlosses" },
                   "style": { "fontSize": "65%", "verticalAlign": "middle" },
                   "tag": "span"
