@@ -23389,7 +23389,7 @@
       {
         "content": [
           {
-            "content": { "content": "ordinary driver's license", "tag": "li" },
+            "content": { "content": "carteira de motorista comum", "tag": "li" },
             "data": { "content": "glossary" },
             "lang": "en",
             "style": { "listStyleType": "circle" },
@@ -23406,7 +23406,7 @@
                   "tag": "a"
                 },
                 {
-                  "content": " ordinary driver's license",
+                  "content": " carteira de motorista comum",
                   "data": { "content": "refGlosses" },
                   "style": { "fontSize": "65%", "verticalAlign": "middle" },
                   "tag": "span"
@@ -23432,7 +23432,7 @@
     "n",
     "",
     -200,
-    ["ordinary driver's license"],
+    ["carteira de motorista comum"],
     2854636,
     ""
   ],
@@ -47968,7 +47968,7 @@
     "n",
     "",
     -200,
-    ["definitive stamp"],
+    ["selo comum"],
     2855396,
     ""
   ],
@@ -70866,7 +70866,7 @@
     "n",
     "",
     -200,
-    ["standard-sized car"],
+    ["carro de passageiros (comum)"],
     2855974,
     ""
   ],

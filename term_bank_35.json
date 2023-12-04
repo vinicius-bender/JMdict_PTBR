@@ -111633,7 +111633,7 @@
       {
         "content": [
           {
-            "content": { "content": "needle with a normal eye", "tag": "li" },
+            "content": { "content": "agulha com um olho comum", "tag": "li" },
             "data": { "content": "glossary" },
             "lang": "en",
             "style": { "listStyleType": "circle" },
@@ -111642,7 +111642,7 @@
           {
             "content": {
               "content": [
-                "see: ",
+                "veja: ",
                 {
                   "content": "普通孔針",
                   "href": "?query=普通孔針\u0026wildcards=off",
@@ -111650,7 +111650,7 @@
                   "tag": "a"
                 },
                 {
-                  "content": " needle with a normal eye",
+                  "content": " agulha com um olho comum",
                   "data": { "content": "refGlosses" },
                   "style": { "fontSize": "65%", "verticalAlign": "middle" },
                   "tag": "span"
@@ -111690,7 +111690,7 @@
       {
         "content": [
           {
-            "content": { "content": "needle with a normal eye", "tag": "li" },
+            "content": { "content": "agulha com um olho comum", "tag": "li" },
             "data": { "content": "glossary" },
             "lang": "en",
             "style": { "listStyleType": "circle" },
@@ -111699,7 +111699,7 @@
           {
             "content": {
               "content": [
-                "see: ",
+                "veja: ",
                 {
                   "content": "普通孔針",
                   "href": "?query=普通孔針\u0026wildcards=off",
@@ -111707,7 +111707,7 @@
                   "tag": "a"
                 },
                 {
-                  "content": " needle with a normal eye",
+                  "content": " agulha com um olho comum",
                   "data": { "content": "refGlosses" },
                   "style": { "fontSize": "65%", "verticalAlign": "middle" },
                   "tag": "span"
@@ -111747,7 +111747,7 @@
       {
         "content": [
           {
-            "content": { "content": "needle with a normal eye", "tag": "li" },
+            "content": { "content": "agulha com um olho comum", "tag": "li" },
             "data": { "content": "glossary" },
             "lang": "en",
             "style": { "listStyleType": "circle" },
@@ -111756,7 +111756,7 @@
           {
             "content": {
               "content": [
-                "see: ",
+                "veja: ",
                 {
                   "content": "普通孔針",
                   "href": "?query=普通孔針\u0026wildcards=off",
@@ -111764,7 +111764,7 @@
                   "tag": "a"
                 },
                 {
-                  "content": " needle with a normal eye",
+                  "content": " agulha com um olho comum",
                   "data": { "content": "refGlosses" },
                   "style": { "fontSize": "65%", "verticalAlign": "middle" },
                   "tag": "span"
@@ -111804,7 +111804,7 @@
       {
         "content": [
           {
-            "content": { "content": "needle with a normal eye", "tag": "li" },
+            "content": { "content": "agulha com um olho comum", "tag": "li" },
             "data": { "content": "glossary" },
             "lang": "en",
             "style": { "listStyleType": "circle" },
@@ -111813,7 +111813,7 @@
           {
             "content": {
               "content": [
-                "see: ",
+                "veja: ",
                 {
                   "content": "普通孔針",
                   "href": "?query=普通孔針\u0026wildcards=off",
@@ -111821,7 +111821,7 @@
                   "tag": "a"
                 },
                 {
-                  "content": " needle with a normal eye",
+                  "content": " agulha com um olho comum",
                   "data": { "content": "refGlosses" },
                   "style": { "fontSize": "65%", "verticalAlign": "middle" },
                   "tag": "span"
@@ -111861,7 +111861,7 @@
       {
         "content": [
           {
-            "content": { "content": "needle with a normal eye", "tag": "li" },
+            "content": { "content": "agulha com um olho comum", "tag": "li" },
             "data": { "content": "glossary" },
             "lang": "en",
             "style": { "listStyleType": "circle" },
@@ -111918,7 +111918,7 @@
       {
         "content": [
           {
-            "content": { "content": "needle with a normal eye", "tag": "li" },
+            "content": { "content": "agulha com um olho comum", "tag": "li" },
             "data": { "content": "glossary" },
             "lang": "en",
             "style": { "listStyleType": "circle" },
@@ -143768,14 +143768,14 @@
     2532230,
     ""
   ],
-  ["普通車", "ふつうしゃ", "1 n", "", -200, ["standard-size car"], 2532240, ""],
+  ["普通車", "ふつうしゃ", "1 n", "", -200, ["carro de tamanho padrão"], 2532240, ""],
   [
     "普通車",
     "ふつうしゃ",
     "2 n",
     "",
     -201,
-    ["ordinary carriage (in a train)", "second-class carriage", "ordinary car"],
+    ["vagão comum (em um trem)", "transporte de segunda classe", "carro comum"],
     2532240,
     ""
   ],
