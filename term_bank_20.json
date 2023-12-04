@@ -6512,7 +6512,7 @@
     "n",
     "",
     -200,
-    ["affiliated school", "school attached to a university"],
+    ["escola afiliada", "escola vinculada a uma universidade"],
     1728790,
     ""
   ],
@@ -6532,7 +6532,7 @@
     "n",
     "",
     -10200,
-    ["affiliated school", "school attached to a university"],
+    ["escola afiliada", "escola vinculada a uma universidade"],
     1728790,
     ""
   ],
@@ -53293,7 +53293,7 @@
                     "tag": "a"
                   },
                   {
-                    "content": " 2. system of Japanese grammar used in Japanese schools and dictionaries",
+                    "content": " 2. sistema de gramática japonesa usado em escolas e dicionários japoneses",
                     "data": { "content": "refGlosses" },
                     "style": { "fontSize": "65%", "verticalAlign": "middle" },
                     "tag": "span"
@@ -53473,7 +53473,7 @@
     "n hist",
     "",
     -200,
-    ["elementary school (in Japan; 1941-1947)"],
+    ["escola primária (no Japão; 1941-1947)"],
     1746210,
     ""
   ],
@@ -106499,7 +106499,7 @@
     1761200,
     ""
   ],
-  ["学校医", "がっこうい", "n", "", -200, ["school physician"], 1761210, ""],
+  ["学校医", "がっこうい", "n", "", -200, ["médico escolar"], 1761210, ""],
   [
     "学校教育",
     "がっこうきょういく",
@@ -106511,8 +106511,8 @@
         "content": [
           {
             "content": [
-              { "content": "school education", "tag": "li" },
-              { "content": "formal education", "tag": "li" }
+              { "content": "educação escolar", "tag": "li" },
+              { "content": "educação formal", "tag": "li" }
             ],
             "data": { "content": "glossary" },
             "lang": "en",
@@ -106526,7 +106526,7 @@
                 "tag": "li"
               },
               {
-                "content": "He was born so poor that he received hardly any school education.",
+                "content": "Ele nasceu tão pobre que quase não recebeu educação escolar.",
                 "lang": "en",
                 "style": { "listStyleType": "'🇧🇷 '" },
                 "tag": "li"
@@ -106550,7 +106550,7 @@
     "n law",
     "",
     -200,
-    ["School Education Act"],
+    ["Lei de Educação Escolar"],
     1761230,
     ""
   ],
@@ -106560,7 +106560,7 @@
     "n",
     "",
     -200,
-    ["school grouping system"],
+    ["sistema de agrupamento de escolas"],
     1761240,
     ""
   ],
@@ -109254,7 +109254,7 @@
     "n",
     "",
     1999800,
-    ["girls' school"],
+    ["escola para meninas"],
     1761990,
     "⭐ news12k"
   ],
@@ -120091,7 +120091,7 @@
     "n",
     "",
     999800,
-    ["theological school", "seminary"],
+    ["escola teológica", "seminário"],
     1765070,
     "news21k"
   ],
@@ -145166,7 +145166,7 @@
     "n",
     "",
     -200,
-    ["naval academy"],
+    ["academia naval"],
     1772820,
     ""
   ],

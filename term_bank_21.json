@@ -46247,10 +46247,10 @@
         "content": [
           {
             "content": [
-              { "content": "special school", "tag": "li" },
-              { "content": "special needs school", "tag": "li" },
+              { "content": "escola especial", "tag": "li" },
+              { "content": "escola para portadores de necessidades especiais", "tag": "li" },
               {
-                "content": "school for children with physical or mental disabilities",
+                "content": "escola para crianças com deficiências físicas ou mentais",
                 "tag": "li"
               }
             ],
@@ -46270,7 +46270,7 @@
                   "tag": "a"
                 },
                 {
-                  "content": " special needs school; special support school",
+                  "content": " escola para portadores de necessidades especiais; escola de suporte especial",
                   "data": { "content": "refGlosses" },
                   "style": { "fontSize": "65%", "verticalAlign": "middle" },
                   "tag": "span"
@@ -88514,7 +88514,7 @@
     "n",
     "",
     999800,
-    ["technical college"],
+    ["faculdade técnica"],
     1809330,
     "news18k"
   ],
@@ -131605,7 +131605,7 @@
     "1 n",
     "",
     -200,
-    ["(army) military academy"],
+    ["academia militar (exército)"],
     1823880,
     ""
   ],
@@ -131615,7 +131615,7 @@
     "2 n hist",
     "",
     -201,
-    ["Imperial Japanese Army Academy"],
+    ["Academia do Exército Imperial Japonês"],
     1823880,
     ""
   ],
@@ -158296,7 +158296,7 @@
     "n",
     "",
     -200,
-    ["police academy"],
+    ["academia de polícia"],
     1831010,
     ""
   ],

@@ -103290,8 +103290,8 @@
         "content": [
           {
             "content": [
-              { "content": "vocational school", "tag": "li" },
-              { "content": "technical school", "tag": "li" }
+              { "content": "escola profissionalizante", "tag": "li" },
+              { "content": "escola técnica", "tag": "li" }
             ],
             "data": { "content": "glossary" },
             "lang": "en",
@@ -103302,7 +103302,7 @@
             "content": [
               { "content": "専門ガッコのタメだよ。", "tag": "li" },
               {
-                "content": "They're buddies from my technical school.",
+                "content": "Eles são colegas de minha escola técnica.",
                 "lang": "en",
                 "style": { "listStyleType": "'🇧🇷 '" },
                 "tag": "li"
@@ -103776,7 +103776,7 @@
     "n",
     "",
     -200,
-    ["specialized training college", "advanced vocational school"],
+    ["escola de treinamento especializado", "escola profissionalizante avançada"],
     1703850,
     ""
   ],
@@ -111367,7 +111367,7 @@
     "n",
     "",
     -200,
-    ["vocational school"],
+    ["escola profissionalizante"],
     1706400,
     ""
   ],

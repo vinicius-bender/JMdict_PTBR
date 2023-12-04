@@ -28301,8 +28301,7 @@
         "content": [
           {
             "content": [
-              { "content": "school principal", "tag": "li" },
-              { "content": "headmaster", "tag": "li" }
+              { "content": "diretor da escola", "tag": "li" }
             ],
             "data": { "content": "glossary" },
             "lang": "en",
@@ -28312,7 +28311,7 @@
           {
             "content": {
               "content": [
-                "see: ",
+                "veja: ",
                 {
                   "content": "校長",
                   "href": "?query=校長\u0026wildcards=off",
@@ -28320,7 +28319,7 @@
                   "tag": "a"
                 },
                 {
-                  "content": " principal; head teacher; headmaster; headmistress",
+                  "content": " diretor; diretora",
                   "data": { "content": "refGlosses" },
                   "style": { "fontSize": "65%", "verticalAlign": "middle" },
                   "tag": "span"
@@ -33416,7 +33415,7 @@
     "n",
     "",
     -200,
-    ["school for ethnic Koreans (in Japan)"],
+    ["escola para coreanos (no Japão)"],
     2854939,
     ""
   ],
@@ -41347,7 +41346,7 @@
     "n",
     "",
     -200,
-    ["foreign school", "school for foreigners", "international school"],
+    ["escola estrangeira", "escola para estrangeiros", "escola internacional"],
     2855175,
     ""
   ],
@@ -41361,7 +41360,7 @@
       {
         "content": [
           {
-            "content": { "content": "international school", "tag": "li" },
+            "content": { "content": "escola internacional", "tag": "li" },
             "data": { "content": "glossary" },
             "lang": "en",
             "style": { "listStyleType": "circle" },
@@ -41370,7 +41369,7 @@
           {
             "content": {
               "content": [
-                "see: ",
+                "veja: ",
                 {
                   "content": "インターナショナルスクール",
                   "href": "?query=インターナショナルスクール\u0026wildcards=off",
@@ -41378,7 +41377,7 @@
                   "tag": "a"
                 },
                 {
-                  "content": " international school",
+                  "content": " escola internacional",
                   "data": { "content": "refGlosses" },
                   "style": { "fontSize": "65%", "verticalAlign": "middle" },
                   "tag": "span"
@@ -41529,7 +41528,7 @@
     "n",
     "",
     -200,
-    ["educational system", "school system"],
+    ["sistema educacional", "sistema escolar"],
     2855187,
     ""
   ],
@@ -70039,7 +70038,7 @@
         "content": [
           {
             "content": {
-              "content": "vocational training college",
+              "content": "faculdade de treinamento vocacional",
               "tag": "li"
             },
             "data": { "content": "glossary" },
@@ -70049,7 +70048,7 @@
           },
           {
             "content": {
-              "content": "renamed as 職業能力開発短期大学校 in 1993",
+              "content": "renomeado para 職業能力開発短期大学校 em 1993",
               "tag": "li"
             },
             "data": { "content": "notes" },
@@ -70060,7 +70059,7 @@
           {
             "content": {
               "content": [
-                "see: ",
+                "veja: ",
                 {
                   "content": "職業能力開発短期大学校",
                   "href": "?query=職業能力開発短期大学校\u0026wildcards=off",
@@ -70068,7 +70067,7 @@
                   "tag": "a"
                 },
                 {
-                  "content": " (two-year) polytechnic college",
+                  "content": " faculdade politécnica (dois anos)",
                   "data": { "content": "refGlosses" },
                   "style": { "fontSize": "65%", "verticalAlign": "middle" },
                   "tag": "span"
@@ -70547,7 +70546,7 @@
     "n",
     "",
     -200,
-    ["(two-year) polytechnic college"],
+    ["faculdade politécnica (dois anos)"],
     2855960,
     ""
   ],
@@ -70557,7 +70556,7 @@
     "n",
     "",
     -200,
-    ["polytechnic college (with two-year and four-year courses)"],
+    ["faculdade politécnica (com cursos de dois e quatro anos)"],
     2855961,
     ""
   ],
@@ -70676,7 +70675,7 @@
         "content": [
           {
             "content": {
-              "content": "polytechnic college (with two-year and four-year courses)",
+              "content": "faculdade politécnica (com cursos de dois e quatro anos)",
               "tag": "li"
             },
             "data": { "content": "glossary" },
@@ -70687,7 +70686,7 @@
           {
             "content": {
               "content": [
-                "see: ",
+                "veja: ",
                 {
                   "content": "職業能力開発大学校",
                   "href": "?query=職業能力開発大学校\u0026wildcards=off",
@@ -70695,7 +70694,7 @@
                   "tag": "a"
                 },
                 {
-                  "content": " polytechnic college (with two-year and four-year courses)",
+                  "content": " faculdade politécnica (com cursos de dois e quatro anos)",
                   "data": { "content": "refGlosses" },
                   "style": { "fontSize": "65%", "verticalAlign": "middle" },
                   "tag": "span"
@@ -76254,7 +76253,7 @@
     "n",
     "",
     -200,
-    ["agricultural college"],
+    ["faculdade de agricultura"],
     2856160,
     ""
   ],

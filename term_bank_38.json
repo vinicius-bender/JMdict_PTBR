@@ -37989,7 +37989,7 @@
     "n",
     "",
     -200,
-    ["public junior high school"],
+    ["escola pública de ensino médio"],
     2642850,
     ""
   ],
@@ -39010,7 +39010,7 @@
     2643200,
     ""
   ],
-  ["映画学校", "えいががっこう", "n", "", -200, ["film school"], 2643210, ""],
+  ["映画学校", "えいががっこう", "n", "", -200, ["escola de cinema"], 2643210, ""],
   [
     "株式投機",
     "かぶしきとうき",
@@ -117019,7 +117019,7 @@
       {
         "content": [
           {
-            "content": { "content": "public school", "tag": "li" },
+            "content": { "content": "escola pública", "tag": "li" },
             "data": { "content": "glossary" },
             "lang": "en",
             "style": { "listStyleType": "circle" },
@@ -117028,7 +117028,7 @@
           {
             "content": {
               "content": [
-                "see: ",
+                "veja: ",
                 {
                   "content": "公立学校",
                   "href": "?query=公立学校\u0026wildcards=off",
@@ -117036,7 +117036,7 @@
                   "tag": "a"
                 },
                 {
-                  "content": " public school",
+                  "content": " escola pública",
                   "data": { "content": "refGlosses" },
                   "style": { "fontSize": "65%", "verticalAlign": "middle" },
                   "tag": "span"
@@ -117066,7 +117066,7 @@
       {
         "content": [
           {
-            "content": { "content": "private school", "tag": "li" },
+            "content": { "content": "escola particular", "tag": "li" },
             "data": { "content": "glossary" },
             "lang": "en",
             "style": { "listStyleType": "circle" },
@@ -117083,7 +117083,7 @@
                   "tag": "a"
                 },
                 {
-                  "content": " private school; non-government school",
+                  "content": " escola particular; escola não governamental",
                   "data": { "content": "refGlosses" },
                   "style": { "fontSize": "65%", "verticalAlign": "middle" },
                   "tag": "span"
@@ -151067,7 +151067,7 @@
     "n",
     "",
     -200,
-    ["mixed-sex school"],
+    ["escola de gênero misto"],
     2673720,
     ""
   ],
@@ -151138,7 +151138,7 @@
     "n",
     "",
     -10200,
-    ["mixed-sex school"],
+    ["escola de gênero misto"],
     2673720,
     ""
   ],
