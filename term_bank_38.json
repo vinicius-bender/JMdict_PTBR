@@ -78582,7 +78582,7 @@
         "content": [
           {
             "content": {
-              "content": "earth observation (satellite, platform, etc.)",
+              "content": "observação da terra (satélite, plataforma, etc.)",
               "tag": "li"
             },
             "data": { "content": "glossary" },
@@ -78593,7 +78593,7 @@
           {
             "content": {
               "content": [
-                "see: ",
+                "veja: ",
                 {
                   "content": "地球観測衛星",
                   "href": "?query=地球観測衛星\u0026wildcards=off",
@@ -78601,7 +78601,7 @@
                   "tag": "a"
                 },
                 {
-                  "content": " earth observation satellite",
+                  "content": " satélite de observação da terra",
                   "data": { "content": "refGlosses" },
                   "style": { "fontSize": "65%", "verticalAlign": "middle" },
                   "tag": "span"
@@ -91873,7 +91873,7 @@
     "n",
     "",
     -200,
-    ["global environment conservation", "global environment preservation"],
+    ["conservação do meio ambiente global", "preservação do meio ambiente global"],
     2657170,
     ""
   ],
@@ -95638,7 +95638,7 @@
     "n",
     "",
     -200,
-    ["global environment problems", "global environmental issues"],
+    ["problemas ambientais globais", "questões ambientais globais"],
     2658260,
     ""
   ],
@@ -96015,7 +96015,7 @@
           {
             "content": {
               "content": [
-                "see: ",
+                "veja: ",
                 {
                   "content": "地球温暖化",
                   "href": "?query=地球温暖化\u0026wildcards=off",
@@ -96023,7 +96023,7 @@
                   "tag": "a"
                 },
                 {
-                  "content": " global warming",
+                  "content": " aquecimento global",
                   "data": { "content": "refGlosses" },
                   "style": { "fontSize": "65%", "verticalAlign": "middle" },
                   "tag": "span"
@@ -96274,7 +96274,7 @@
           {
             "content": {
               "content": [
-                "see: ",
+                "veja: ",
                 {
                   "content": "地球温暖化防止",
                   "href": "?query=地球温暖化防止\u0026wildcards=off",

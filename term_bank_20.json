@@ -116466,7 +116466,7 @@
         "content": [
           {
             "content": {
-              "content": "earth observation satellite",
+              "content": "satélite de observação da terra",
               "tag": "li"
             },
             "data": { "content": "glossary" },
@@ -116481,7 +116481,7 @@
                 "tag": "li"
               },
               {
-                "content": "Images taken by the JAXA Earth observation satellite, 'Daichi'.",
+                "content": "Imagens tiradas pelo satélite de observação da Terra da JAXA, 'Daichi'.",
                 "lang": "en",
                 "style": { "listStyleType": "'🇧🇷 '" },
                 "tag": "li"
