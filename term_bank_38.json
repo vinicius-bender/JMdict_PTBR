@@ -76523,7 +76523,7 @@
     "n",
     "",
     -200,
-    ["romantic film", "love movie"],
+    ["filme romântico", "filme de amor"],
     2652710,
     ""
   ],
@@ -153414,7 +153414,7 @@
     "n",
     "",
     -200,
-    ["office romance", "office love affair"],
+    ["romance de escritório", "caso de amor no escritório"],
     2674140,
     ""
   ],
@@ -163529,7 +163529,7 @@
     2677190,
     ""
   ],
-  ["自由恋愛", "じゆうれんあい", "n", "", -200, ["free love"], 2677200, ""],
+  ["自由恋愛", "じゆうれんあい", "n", "", -200, ["relacionamento livre"], 2677200, ""],
   ["自由思想家", "じゆうしそうか", "n", "", -200, ["freethinker"], 2677210, ""],
   [
     "自由思想",
