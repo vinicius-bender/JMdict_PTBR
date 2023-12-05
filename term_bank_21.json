@@ -72064,7 +72064,7 @@
       {
         "content": [
           {
-            "content": { "content": "snowscape", "tag": "li" },
+            "content": { "content": "paisagem de neve", "tag": "li" },
             "data": { "content": "glossary" },
             "lang": "en",
             "style": { "listStyleType": "circle" },
@@ -72077,7 +72077,7 @@
                 "tag": "li"
               },
               {
-                "content": "By tomorrow morning all the world will have been covered with snow.",
+                "content": "Até amanhã de manhã, todo o mundo estará coberto de neve.",
                 "lang": "en",
                 "style": { "listStyleType": "'🇧🇷 '" },
                 "tag": "li"
@@ -76452,8 +76452,8 @@
         "content": [
           {
             "content": [
-              { "content": "moon", "tag": "li" },
-              { "content": "lunar world", "tag": "li" }
+              { "content": "lua", "tag": "li" },
+              { "content": "mundo lunar", "tag": "li" }
             ],
             "data": { "content": "glossary" },
             "lang": "en",
@@ -76467,7 +76467,7 @@
                 "tag": "li"
               },
               {
-                "content": "It is generally believed that a trip to the moon will be made possible during this century.",
+                "content": "Em geral, acredita-se que uma viagem à Lua será possível durante este século.",
                 "lang": "en",
                 "style": { "listStyleType": "'🇧🇷 '" },
                 "tag": "li"

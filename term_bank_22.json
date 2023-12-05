@@ -171684,7 +171684,7 @@
     "n",
     "",
     1999800,
-    ["World Bank"],
+    ["Banco Mundial"],
     1888100,
     "⭐ news5k"
   ],
@@ -171694,11 +171694,11 @@
     "n",
     "",
     -200,
-    ["focus of the trade routes of the world"],
+    ["foco nas rotas comerciais do mundo"],
     1888110,
     ""
   ],
-  ["世界新", "せかいしん", "n", "", -200, ["new world record"], 1888120, ""],
+  ["世界新", "せかいしん", "n", "", -200, ["novo recorde mundial"], 1888120, ""],
   ["隻語", "せきご", "n", "", -200, ["just a few words"], 1888150, ""],
   ["積算法", "せきさんほう", "n", "", -200, ["integration"], 1888160, ""],
   [

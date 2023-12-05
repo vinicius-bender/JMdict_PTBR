@@ -79724,7 +79724,7 @@
     "n",
     "",
     -200,
-    ["Universal Declaration of Human Rights (1948)"],
+    ["Declaração Universal dos Direitos Humanos (1948)"],
     1753780,
     ""
   ],
@@ -79739,8 +79739,8 @@
         "content": [
           {
             "content": [
-              { "content": "around the world", "tag": "li" },
-              { "content": "throughout the world", "tag": "li" }
+              { "content": "em todo o mundo", "tag": "li" },
+              { "content": "ao redor do mundo", "tag": "li" }
             ],
             "data": { "content": "glossary" },
             "lang": "en",
@@ -79751,7 +79751,7 @@
             "content": [
               { "content": "彼は世界中を旅した。", "tag": "li" },
               {
-                "content": "He traveled all over the globe.",
+                "content": "Ele viajou por todo o mundo.",
                 "lang": "en",
                 "style": { "listStyleType": "'🇧🇷 '" },
                 "tag": "li"
@@ -79790,8 +79790,8 @@
         "content": [
           {
             "content": [
-              { "content": "around the world", "tag": "li" },
-              { "content": "throughout the world", "tag": "li" }
+              { "content": "em todo o mundo", "tag": "li" },
+              { "content": "ao redor do mundo", "tag": "li" }
             ],
             "data": { "content": "glossary" },
             "lang": "en",
@@ -79802,7 +79802,7 @@
             "content": [
               { "content": "彼は世界中を旅した。", "tag": "li" },
               {
-                "content": "He traveled all over the globe.",
+                "content": "Ele viajou por todo o mundo.",
                 "lang": "en",
                 "style": { "listStyleType": "'🇧🇷 '" },
                 "tag": "li"
@@ -79830,14 +79830,14 @@
     1753790,
     ""
   ],
-  ["世界主義", "せかいしゅぎ", "n", "", -200, ["cosmopolitanism"], 1753800, ""],
+  ["世界主義", "せかいしゅぎ", "n", "", -200, ["cosmopolitismo"], 1753800, ""],
   [
     "世界政策",
     "せかいせいさく",
     "n adj-no",
     "",
     -200,
-    ["world policy"],
+    ["política mundial"],
     1753810,
     ""
   ],
@@ -79851,7 +79851,7 @@
       {
         "content": [
           {
-            "content": { "content": "new world record", "tag": "li" },
+            "content": { "content": "novo recorde mundial", "tag": "li" },
             "data": { "content": "glossary" },
             "lang": "en",
             "style": { "listStyleType": "circle" },
@@ -79864,7 +79864,7 @@
                 "tag": "li"
               },
               {
-                "content": "His record is a new world record in the 100-meter dash.",
+                "content": "Sua marca é um novo recorde mundial na corrida de 100 metros rasos.",
                 "lang": "en",
                 "style": { "listStyleType": "'🇧🇷 '" },
                 "tag": "li"
@@ -79893,9 +79893,9 @@
         "content": [
           {
             "content": [
-              { "content": "international language", "tag": "li" },
-              { "content": "world language", "tag": "li" },
-              { "content": "global lingua franca", "tag": "li" }
+              { "content": "idioma internacional", "tag": "li" },
+              { "content": "idioma mundial", "tag": "li" },
+              { "content": "língua franca global", "tag": "li" }
             ],
             "data": { "content": "glossary" },
             "lang": "en",
@@ -79905,7 +79905,7 @@
           {
             "content": {
               "content": [
-                "see: ",
+                "veja: ",
                 {
                   "content": "国際語",
                   "href": "?query=国際語\u0026wildcards=off",
@@ -79913,7 +79913,7 @@
                   "tag": "a"
                 },
                 {
-                  "content": " 1. international language; world language; global lingua franca",
+                  "content": " 1. idioma internacional; idioma mundial; língua franca global",
                   "data": { "content": "refGlosses" },
                   "style": { "fontSize": "65%", "verticalAlign": "middle" },
                   "tag": "span"
@@ -79933,7 +79933,7 @@
                 "tag": "li"
               },
               {
-                "content": "It goes without saying that English is an international language.",
+                "content": "Não é preciso dizer que o inglês é um idioma internacional.",
                 "lang": "en",
                 "style": { "listStyleType": "'🇧🇷 '" },
                 "tag": "li"
@@ -79962,7 +79962,7 @@
         "content": [
           {
             "content": {
-              "content": "constructed international auxiliary language (e.g. Esperanto)",
+              "content": "idioma auxiliar internacional construído (por exemplo, esperanto)",
               "tag": "li"
             },
             "data": { "content": "glossary" },
@@ -79973,7 +79973,7 @@
           {
             "content": {
               "content": [
-                "see: ",
+                "veja: ",
                 {
                   "content": "国際補助語",
                   "href": "?query=国際補助語\u0026wildcards=off",
@@ -100965,10 +100965,8 @@
         "content": [
           {
             "content": [
-              { "content": "First World War (1914-1918)", "tag": "li" },
-              { "content": "World War I", "tag": "li" },
-              { "content": "WWI", "tag": "li" },
-              { "content": "WW1", "tag": "li" }
+              { "content": "Primeira Guerra Mundial (1914-1918)", "tag": "li" },
+              { "content": "WWI", "tag": "li" }
             ],
             "data": { "content": "glossary" },
             "lang": "en",
@@ -100979,7 +100977,7 @@
             "content": [
               { "content": "第一次世界大戦は1914年に勃発した。", "tag": "li" },
               {
-                "content": "World War I broke out in 1914.",
+                "content": "A Primeira Guerra Mundial teve início em 1914.",
                 "lang": "en",
                 "style": { "listStyleType": "'🇧🇷 '" },
                 "tag": "li"
@@ -101018,10 +101016,8 @@
         "content": [
           {
             "content": [
-              { "content": "First World War (1914-1918)", "tag": "li" },
-              { "content": "World War I", "tag": "li" },
-              { "content": "WWI", "tag": "li" },
-              { "content": "WW1", "tag": "li" }
+              { "content": "Primeira Guerra Mundial (1914-1918)", "tag": "li" },
+              { "content": "WWI", "tag": "li" }
             ],
             "data": { "content": "glossary" },
             "lang": "en",
@@ -101032,7 +101028,7 @@
             "content": [
               { "content": "第一次世界大戦は1914年に勃発した。", "tag": "li" },
               {
-                "content": "World War I broke out in 1914.",
+                "content": "A Primeira Guerra Mundial teve início em 1914.",
                 "lang": "en",
                 "style": { "listStyleType": "'🇧🇷 '" },
                 "tag": "li"
@@ -101066,7 +101062,7 @@
     "n",
     "",
     999800,
-    ["primary industry"],
+    ["indústria primária"],
     1759180,
     "news20k"
   ],
@@ -101153,10 +101149,8 @@
         "content": [
           {
             "content": [
-              { "content": "Second World War (1939-1945)", "tag": "li" },
-              { "content": "World War II", "tag": "li" },
-              { "content": "WWII", "tag": "li" },
-              { "content": "WW2", "tag": "li" }
+              { "content": "Segunda Guerra Mundial (1939-1945)", "tag": "li" },
+              { "content": "WWII", "tag": "li" }
             ],
             "data": { "content": "glossary" },
             "lang": "en",
@@ -101170,7 +101164,7 @@
                 "tag": "li"
               },
               {
-                "content": "That country remained neutral throughout World War II.",
+                "content": "Esse país permaneceu neutro durante a Segunda Guerra Mundial.",
                 "lang": "en",
                 "style": { "listStyleType": "'🇧🇷 '" },
                 "tag": "li"
@@ -101209,10 +101203,8 @@
         "content": [
           {
             "content": [
-              { "content": "Second World War (1939-1945)", "tag": "li" },
-              { "content": "World War II", "tag": "li" },
-              { "content": "WWII", "tag": "li" },
-              { "content": "WW2", "tag": "li" }
+              { "content": "Segunda Guerra Mundial (1939-1945)", "tag": "li" },
+              { "content": "WWII", "tag": "li" }
             ],
             "data": { "content": "glossary" },
             "lang": "en",
@@ -101226,7 +101218,7 @@
                 "tag": "li"
               },
               {
-                "content": "That country remained neutral throughout World War II.",
+                "content": "Esse país permaneceu neutro durante a Segunda Guerra Mundial.",
                 "lang": "en",
                 "style": { "listStyleType": "'🇧🇷 '" },
                 "tag": "li"
@@ -101334,7 +101326,7 @@
     1759280,
     ""
   ],
-  ["第三世界", "だいさんせかい", "n", "", -200, ["Third World"], 1759290, ""],
+  ["第三世界", "だいさんせかい", "n", "", -200, ["Terceiro Mundo"], 1759290, ""],
   [
     "第三次産業",
     "だいさんじさんぎょう",
